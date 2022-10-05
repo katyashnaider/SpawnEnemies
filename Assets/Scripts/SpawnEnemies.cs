@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpawnEnemies : MonoBehaviour
 {
-    [SerializeField] private GameObject[] _spawnPoints;
+    [SerializeField] private Transform[] _spawnPoints;
     [SerializeField] private Enemy _enemy;
 
     private const float StepSecondSpawn = 2f;

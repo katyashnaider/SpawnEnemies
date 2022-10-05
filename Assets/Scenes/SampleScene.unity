@@ -414,7 +414,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1494921149}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &976691952
 MonoBehaviour:
@@ -553,7 +553,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1494921149}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1465364273
 MonoBehaviour:
@@ -594,9 +594,9 @@ Transform:
   m_LocalPosition: {x: -0.5, y: 0.63, z: -0.749}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 976691951}
-  - {fileID: 616275842}
   - {fileID: 1465364272}
+  - {fileID: 616275842}
+  - {fileID: 976691951}
   - {fileID: 260008743}
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -710,8 +710,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPoints:
-  - {fileID: 976691950}
-  - {fileID: 616275841}
-  - {fileID: 1465364271}
-  - {fileID: 260008742}
+  - {fileID: 1465364272}
+  - {fileID: 616275842}
+  - {fileID: 976691951}
+  - {fileID: 260008743}
   _enemy: {fileID: -8930529174725343057, guid: bbc3c6003298a42478ed0cce1b92d598, type: 3}
