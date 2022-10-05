@@ -710,8 +710,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPoints:
-  - {fileID: 976691952}
-  - {fileID: 616275843}
-  - {fileID: 1465364273}
-  - {fileID: 260008744}
+  - {fileID: 976691950}
+  - {fileID: 616275841}
+  - {fileID: 1465364271}
+  - {fileID: 260008742}
   _enemy: {fileID: -8930529174725343057, guid: bbc3c6003298a42478ed0cce1b92d598, type: 3}
